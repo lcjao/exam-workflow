@@ -1,0 +1,25 @@
+{
+  "name": "@lcjao/exam-workflow",
+  "version": "2.0.0",
+  "description": "AI 交互考试工作流 —— 基于文件的交互式备考系统 | Exam Workflow: File-based Interactive Study System",
+  "keywords": [
+    "ai", "education", "exam", "study", "obsidian",
+    "claude", "skill", "workflow", "备考", "学习",
+    "exam-preparation", "interactive-learning"
+  ],
+  "license": "MIT",
+  "author": "lcjao <ljh20020604@outlook.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lcjao/exam-workflow.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lcjao/exam-workflow/issues"
+  },
+  "homepage": "https://github.com/lcjao/exam-workflow#readme",
+  "files": [
+    "skill/",
+    "learning-lib/",
+    "docs/"
+  ]
+}
